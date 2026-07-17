@@ -1,0 +1,26 @@
+working environment in autocad 
+
+1. setting unit --> eng unit
+2. setting working are 
+3. zoom (all)
+4. fixing/setiing uccivon 
+5. DIMSTY 
+
+
+to start cmd ctrl+9
+UNITS 	 engineering, 0'-0", inches 
+LIMITS  0'-0",0'-0",  uppor eight corcer 250'-0",250'-0"
+ZOOM all, 
+USCICON, origin 
+DIMSTY modify primary units - eng , 0 0  --------- ser current , close
+LINE, f8(line straight) 
+
+
+for BD flag, circle 20 inch, 100 one side, 60 other 
+for color HATCH, solid , select color, pin point
+
+RECTANGLE - specify the first corner 
+
+EXPLODE
+
+we're gonna use autocad architechture English 2022
