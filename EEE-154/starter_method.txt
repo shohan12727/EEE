@@ -1,0 +1,10 @@
+Units 
+
+limits  
+0'-0", 0'-0"
+200'-0",200'-0"
+
+zoom all  pan diye thik kore nibo , then esc
+Ucsicon origin 
+Dimen modify 
+
