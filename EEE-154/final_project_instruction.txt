@@ -1,0 +1,18 @@
+Dear Students
+The attached file is your final project. Please draw this picture in AutoCAD following the instruction given below and submit your DWG (Full name_Stiudent ID.dwg) file in the assignment created by the name Final Project.
+
+Instruction:
+
+Civil Work: All walls in Layer – 1 (Civil Work)
+
+Electric Work: All Fans, lights, and other electric features in Layer-2 (Electric Work)
+
+Interior Work: Bed, Sofa, Cabinet, Dining Table, and other Bathroom features Layer-3 (Interior Works)
+
+Doors and Windows: All Doors and Windows in another layer, Layer-4 (D & W)
+
+All text and dimensions: All texts and Dimensions must be in a separate layer (Text and Dimension)
+
+Different layers will be of different colours.
+
+Deadline is 26 August 2026

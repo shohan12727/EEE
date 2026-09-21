@@ -8,3 +8,7 @@ zoom all  pan diye thik kore nibo , then esc
 Ucsicon origin 
 Dimsty modify engineering, 0'-0"
 
+3D er jonno:
+
+settings --> 3d modeling
+unsaved review --> se isometric
